@@ -1,0 +1,15 @@
+git init　ローカルリポジトリの初期化
+git add . 変更されたファイルすべて
+status
+git add main
+git commit -m "" コメント
+
+git push -u origin master
+
+
+
+s
+
+d
+g
+d
